@@ -1,0 +1,14 @@
+From: security-alert@example.com
+To: user@example.com
+Subject: Urgent! Your account will be suspended
+
+Dear Customer,
+
+Your account will be suspended within 24 hours.
+
+Please verify your account immediately to avoid losing access.
+
+Link: https://example.com/verify
+
+Thank you,
+Account Security Team
